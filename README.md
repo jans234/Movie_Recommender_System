@@ -1,4 +1,4 @@
-Movie Recommender System 🎬🍿
+# Movie Recommender System 🎬🍿
 
 A content-based movie recommender system that suggests similar movies based on user preferences. It fetches movie posters using the TMDB API and displays recommendations in a clean, interactive interface built with Streamlit.
 
